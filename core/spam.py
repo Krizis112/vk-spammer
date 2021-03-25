@@ -33,11 +33,7 @@ if os.path.exists(SPAMMER_PATH + "messages.txt"):
 			messages.append(line)
 else:
 	messages = [
-	    "hi",
-	    "2",
-	    "3",
-	    "fuck",
-	    "5"
+	    "Рейд от Еремея"
 	]
 # -------------------------------------------
 
